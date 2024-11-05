@@ -1,2 +1,2 @@
 OUTPUT:
-https://charitha-r-7.github.io/project9.2/
+https://charitha-r-7.github.io/Application_for_kids/
